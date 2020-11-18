@@ -1,7 +1,7 @@
 # Personal-Brand-Development
 
 Earlier this year, I was selected as Fall 2020 Fellow with [bespoken](https://www.letsbespoken.org), a mentorship program for womxn in music. 
-My work as part of this mentorship program includes developing my own artistic personal brand as it related to my music, data science, and everything I do. This brand development project will culminate in the coming months in the form of a new website that integrates all that I do and will holistically represent who I am.
+My work as part of this mentorship program includes developing my own artistic personal brand as it related to my music, data science, and everything I do. This brand development project will culminate in the coming months in the form of a new website that integrates my multi-faceted work, and will holistically represent who I am.
 
 An important first step to this is understanding where I am today in my personal branding and finding words to describe my current persona as I'm seen by those around me, and then using that to inform the artistic direction I want to move in. Data-driven decision making is at the core of what I do- both as a data scientist and as a person! So, naturally, I chose to approach this personal branding project in the same way, and created an anonymous survey sent to a pool of friends, family, and colleagues in order to gain a better understanding of how people see me and my work today. This repository contains the results and analysis from that survey.
 
