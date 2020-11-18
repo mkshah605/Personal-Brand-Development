@@ -33,7 +33,7 @@ Two considerations were taken into account when looking at this data.
 
 This 2nd consideration was especially important, as I know that my personal branding two years ago isn't the same as it is now, and won't be the same in two more years! My personal brand is a reflection of who I am, and it continues to change and evolve as I do.
 
-To visualize the most frequent words in both the ![personality](https://github.com/mkshah605/Personal-Brand-Development/commit/5829b3265166bfdbbc7a2e56da475c1653d4aaee#diff-2ede6eeb88e1387128f4645b91f320bf4c012c5f53b360c67f368c79aaca3227) and ![music](https://github.com/mkshah605/Personal-Brand-Development/commit/5829b3265166bfdbbc7a2e56da475c1653d4aaee#diff-2ede6eeb88e1387128f4645b91f320bf4c012c5f53b360c67f368c79aaca3227) categories, I created the following word clouds.
+To visualize the most frequent words in both the ![personality](personality_wordcloud.png) and ![music](music_wordcloud.png) categories, I created the following word clouds.
 
 
 ## Conclusions & Next Steps
