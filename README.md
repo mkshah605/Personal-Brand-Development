@@ -21,7 +21,7 @@ While the words were the most important piece of feedback for me, the question o
 
 ## The Data
 
-I obtained the data from the survey as responses were coming in, using the Google Sheets API. Because I designed the survey with the analysis in mind, the data was clean and minimal additional cleaning was needed. Mostly, I ensured each word was consistent (capitalized, no trailing or leading spaces), and that words were spelled correctly, etc. There was one word I had to manually correct, as it was written two different ways by two different people ("Hard-working" v.s. "Hardworking").
+I obtained the data from the survey as responses were coming in, using the Google Sheets API. Because I designed the survey with the analysis in mind, the data was clean and minimal additional cleaning was needed. Mostly, I transformed the data from wide to long, ensured each word was consistent (capitalized, no trailing or leading spaces), and confirmed that words were spelled correctly, etc. There was one word I had to manually correct, as it was written two different ways by two different people ("Hard-working" v.s. "Hardworking").
 
 
 ## The Analysis
