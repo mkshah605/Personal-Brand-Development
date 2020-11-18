@@ -33,8 +33,13 @@ Two considerations were taken into account when looking at this data.
 
 This 2nd consideration was especially important, as I know that my personal branding two years ago isn't the same as it is now, and won't be the same in two more years! My personal brand is a reflection of who I am, and it continues to change and evolve as I do.
 
-To visualize the most frequent words in both the ![personality](personality_wordcloud.png) and ![music](music_wordcloud.png) categories, I created the following word clouds.
+To visualize the most frequent words in both the personality and music categories, I created the following word clouds:
 
+
+![personality](personality_wordcloud.png)
+
+
+![music](music_wordcloud.png)
 
 ## Conclusions & Next Steps
 
