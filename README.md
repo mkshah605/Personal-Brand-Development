@@ -10,9 +10,9 @@ An important first step to this is understanding where I am today in my personal
 
 The survey I created was quite simple, distributed using Google Forms, and contained 3 main required questions.
 
-  1) How would you describe my personality in 3 words?
-  2) When is the last time you heard me play music?
-  3) How would you describe my music, after hearing me perform in a concert or recital? What 3 words might you walk away with?
+>1) How would you describe my personality in 3 words?
+>2) When is the last time you heard me play music?
+>3) How would you describe my music, after hearing me perform in a concert or recital? What 3 words might you walk away with?
   
 The survey was sent to 14 people consisting of family, friends, and people who I have worked with musically in the past, and had a 100% response rate.
 
