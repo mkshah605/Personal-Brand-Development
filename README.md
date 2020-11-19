@@ -31,7 +31,7 @@ Two considerations were taken into account when looking at this data.
 >1) Frequency: Are there certain common words that are being used by more people?
 >2) Relevance: What are people who have heard me more recently saying in comparison to people who haven't heard me play for a few years? Are there any patterns           there?
 
-This 2nd consideration was especially important, as I know that my personal branding two years ago isn't the same as it is now, and won't be the same in two more years! My personal brand is a reflection of who I am, and it continues to change and evolve as I do.
+This 2nd consideration was especially important, as I know that my personal branding two years ago isn't the same as it is now, and won't be the same in two more years! My personal brand is a reflection of who I am, and it continues to change and evolve as I do. I also noticed that some of the more general words to describe my music (ex: "Beautiful") come from peopple who haven't heard me play recently (or at all!), while some of the more descriptive words come from people who have heard me play more recently.
 
 To visualize the most frequent words in both the personality and music categories, I created the following word cloud, respectively:
 
