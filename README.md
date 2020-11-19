@@ -21,7 +21,7 @@ While the words were the most important piece of feedback for me, the question o
 
 ## The Data
 
-Because I designed the survey with the analysis in mind, the data was clean and minimal additional cleaning was needed. Mostly, I ensured each word was consistent (capitalized, no trailing or leading spaces), and that words were spelled correctly, etc. There was one word I had to manually correct, as it was written two different ways by two different people ("Hard-working" v.s. "Hardworking").
+I obtained the data from the survey as responses were coming in, using the Google Sheets API. Because I designed the survey with the analysis in mind, the data was clean and minimal additional cleaning was needed. Mostly, I transformed the data from wide to long, ensured each word was consistent (capitalized, no trailing or leading spaces), and confirmed that words were spelled correctly, etc. There was one word I had to manually correct, as it was written two different ways by two different people ("Hard-working" v.s. "Hardworking").
 
 
 ## The Analysis
@@ -33,8 +33,13 @@ Two considerations were taken into account when looking at this data.
 
 This 2nd consideration was especially important, as I know that my personal branding two years ago isn't the same as it is now, and won't be the same in two more years! My personal brand is a reflection of who I am, and it continues to change and evolve as I do.
 
-To visualize the most frequent words in both the personality and music categories, I created the following word clouds.
+To visualize the most frequent words in both the personality and music categories, I created the following word cloud, respectively:
 
+
+![personality](personality_wordcloud.png)
+
+
+![music](music_wordcloud.png)
 
 ## Conclusions & Next Steps
 
